@@ -1,0 +1,129 @@
+
+.header_pdf_icon{
+    display: flex;
+    justify-content: center;
+}
+#pdf_btn{
+    padding: 0;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    padding-left: 10px;
+    
+}
+#pdf_btn:hover{
+    transform: scale(1.05);
+    color: darkorange;
+}
+hr{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 0;
+    border-top: 1px solid darkorange;
+}
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.group-item {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+.add-info{
+    margin-left: 10px;
+    border-radius: 5px;
+    color: blue;
+    font-weight: bold;
+}
+.add-info:hover{
+    transform: scale(1.05);
+    color: white;
+    background-color: darkcyan;
+}
+.add-group{
+    margin-left: 10px;
+    border-radius: 5px;
+    color: darkslateblue;
+    font-weight: bold;
+}
+.add-group:hover{
+    transform: scale(1.05);
+    color: white;
+    background-color: darkcyan;
+}
+.field {
+    margin-bottom: 5px;
+    
+}
+.delete-btn {
+    color: red;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.delete-btn:hover{
+    transform: scale(1.05);
+    color: white;
+    background-color: red;
+}
+.heading h2{
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+#add-info-item{
+    margin-right: 5px;
+    background-color: aqua;
+}
+#add-group-item{
+    background-color: darkgoldenrod;
+    color: white;
+}
+#add-info-item, #add-group-item{
+    border-radius: 5px;
+    width: auto;
+    height: 30px;
+    font-weight: bold;
+        
+}
+#add-group-item:hover{
+    transform: scale(1.03);
+    background-color: indigo;
+    color: aliceblue;
+}
+#add-info-item:hover{
+    transform: scale(1.03);
+    background-color: darkcyan;
+    color: aliceblue;
+}
+.form{
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 300px;
+    margin-left: 5px;
+    
+}
+.group_item1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.label_class{
+    font-size: 18px;
+}
+.label_class1{
+    font-size: 22px;
+}
+.add-group{
+    margin-left: 10px;
+}
